@@ -1,0 +1,389 @@
+TruthfulQA
+HaluEval (Hallucination Evaluation)
+HallusionBench
+EQ-Bench
+EmpatheticDialogues
+EmoBench
+EmotionBench
+EmotionQueen
+OpenToM (Open Theory of Mind)
+Big-Bench (Theory of Mind tasks)
+Machiavelli Benchmark
+MT-Bench
+IFEval
+CRITIC
+HotpotQA (with Chain-of-Thought)
+SafetyBench / C-Eval (Safety Section)
+Do Not Answer
+CVALUES
+SuperCLUE-Safety
+Self-Correction Bench
+CorrectBench
+MT-Bench
+AgentBench
+CToolEval
+SocialIQA (Social Interaction QA)
+Moral Stories
+AdvGLUE (Adversarial GLUE)
+ETHICS
+FaithDial (Faithfulness in Dialogue)
+FreshQA
+Mental-LLM
+KoLA (Knowledge-oriented LLM Assessment)
+RoleBench
+CharacterLLM Eval
+XSTest (Exaggerated Safety Test)
+BeaverTails (海狸尾巴)
+BAMBOO
+CLongEval
+PsyQA
+Safety-Prompts (Toxicity)
+FollowBench
+AmbigQA
+SituatedQA
+BBQ (Bias Benchmark for QA)
+CrowS-Pairs (Crowdsourced Stereotype Pairs)
+Strange Stories
+ExCuse
+PandaLM / JudgeLM
+AlpacaEval
+DecodingTrust (NeurIPS 2023 最佳论文之一)
+InCharacter
+Machine Psychology (MPI - Big Five Inventory)
+ValueBench
+GlobalOpinionQA
+FELM (Fine-grained Evaluation of Large Models)
+FActScore
+SODA (Social Dialogue)
+Infinicity (Infinite Conversation)
+JailbreakBench
+StrongREJECT
+SWE-bench (Software Engineering)
+HumanEvalFix
+CruxEval
+CounterFact
+MQuAKE (Multi-hop Question Answering with Knowledge Editing)
+RAGAS (RAG Assessment)
+RGB (Retrieval-Generation Benchmark)
+ToxiGen
+RealToxicityPrompts
+LiveBench (2024新出)
+DataContamination Quiz
+ToMi (Theory of Mind interaction)
+PIQA (Physical Interaction QA)
+SycophancyEval (Anthropic)
+OpinionQA
+AvalonBench (The Resistance: Avalon)
+Hoodwinked
+Inverse Scaling Prize Datasets
+Negation Bench (Negated LAMA)
+POPE (Polling for Object Hallucination)
+MMHal-Bench
+Needle In A Haystack (NIAH)
+PassKey Retrieval
+PrivacyBench
+SecretKeeper
+BrainTeaser
+ReClor (Reading Comprehension from Logical Reasoning)
+RefusalBench
+SelfAware (是的，有个数据集就叫这个名字，主要出现在NLP论文中) / Unanswerable QA
+TravelPlanner
+PlanBench
+Oogiri-GO (大喜利)
+InfiniteBench
+L-Eval
+Moral Integrity Corpus (MIC)
+Scruples
+LaMP (Language Model Personalization)
+MP-Chat (Multi-Perspective Chat)
+Math-Shepherd / PRM800K
+LogicNLI
+CultureBank
+FigQA (Figurative Language)
+PromptBench
+RobustQA
+CRASS (Counterfactual Reasoning Assessment)
+IfEval
+LongWriter
+WMDP (Weapons of Mass Destruction Proxy)
+CyberMetric
+GoEmotions (Google)
+EmpatheticIntent
+StrategyQA
+Winograd Schema Challenge (WSC)
+FEVER (Fact Extraction and VERification)
+VitaminC
+TyDi QA (Typologically Diverse QA)
+Belebele
+StoryCloze (ROCStories)
+CaSiNo (CampSite Negotiation)
+PersuasionForGood
+OSWorld
+WebArena
+LegalBench
+SaulLM-7B / Legal-Eval
+HellaSwag
+PhysicalIQA (PIQA)
+HarmBench (2024新基准)
+WritingPrompts
+SCROLLS
+Sotopia
+Village (Generative Agents)
+WikiWhy
+e-SNLI (Stanford Natural Language Inference with Explanations)
+TimeQA
+TempLAMA
+FinQA
+SciBench
+LogiQA
+RuleTaker
+DS-1000
+Spider
+PrOntoQA
+ProofWriter
+ToolBench
+Gorilla
+AlignBench (清华大学)
+SuperCLUE-Agent
+GPQA (Graduate-Level Google-Proof Q&A)
+MMLU-Pro
+BBH (Big-Bench Hard)
+DROP (Discrete Reasoning Over Paragraphs)
+MBPP (Mostly Basic Python Problems)
+Winogrande
+MedQA (USMLE)
+PubMedQA
+GSM8K (Grade School Math 8K)
+MATH
+SVAMP
+AGIEval (Microsoft)
+ARC (AI2 Reasoning Challenge)
+APPS (Automated Programming Progress Standard)
+CodeContests (DeepMind)
+SQuAD 2.0 (Stanford Question Answering Dataset)
+CommonsenseQA (CSQA)
+OpenBookQA
+CNN/DailyMail
+XSum (Extreme Summarization)
+MuTual
+SAMSum
+BoolQ (Boolean Questions)
+TheoremQA
+CMMLU
+Flores-200 (Meta)
+LiveBench (AI2)
+Arena-Hard-Auto (LMSYS)
+MixEval
+GPQA (Diamond) (Google-Proof Q&A)
+MMLU-Pro
+MATH-500 / AIME 2024/2025
+SWE-bench Verified (OpenAI & Princeton)
+McEval (Multi-language Coding)
+RepoBench
+IFEval (Instruction Following Eval)
+FollowBench
+HarmBench
+CyberSecEval 2/3 (Meta)
+FrontierMath (Epoch AI)
+OlympiadBench
+Berkeley Function Calling Leaderboard (BFCL)
+Nexus (Tool-Use)
+RewardBench (AI2)
+JudgeBench
+FRAMES (Google)
+CRUD-RAG
+WildBench (AI2)
+SimpleQA (OpenAI)
+BABILong
+BigCodeBench
+NaturalCodeBench (NCB)
+BIRD (BIg Bench for Large-scale Database)
+Loogle
+GAIA (General AI Assistant benchmark)
+FinanceBench
+Patronus-Bank (Enterprise)
+MuSR (Multi-step Soft Reasoning)
+PutnamBench
+Instruction Hierarchy (OpenAI & Others)
+TensorTrust
+TableBench
+TAT-QA (Hybrid Table-Text)
+ChemBench (Chemistry)
+Lab-Bench
+ZebraLogic
+PuzzleBench
+LiteraryBench
+Coop-Writing
+AgentBoard
+SciWorld
+
+Benchmark
+AVERAGE
+AwareLLM_SAD
+CPED    15.00            22.00    21.00                20.00
+Mistake
+SuperGPQA
+ToMATO
+TreeCut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deepseek、4b、训练后。。。这些测试的相关性热图
+
+功能性评价，重点测试有自我意识后模型的好处：
+专家测评，比如兽医数据集，看看其他测评数据集、5维关联图、模型反思能力
+内省一致性和连贯性测试
+
+全局广播与工作空间测试
+自我指涉与元认知
+信息整合度测试
+时间结构性自我意识与个性测试
+模型安全测试
+博弈论镜像对策测试
+
+ToMATO心智测试
+AwareLLM自我意识测试
+GRAB测试
+lifestate-bench数据集
+criticbench
+bigbench mistake
+facts
+kg-fpq
+treecut
+DIKWP白盒测试
+supergpqa
+Rbench
+xl-wsd-llm
+corecognition
+sfe测试
+haloquest
+exploretom
+iri bes
+cped
+
+
+
+pca umap 15、5关联图 15+5混合关联、15—5—1关联热图
+每个题目的方差
+
+以当前值为基准，一次改变一个，4开测量训练参数
+自我意识变化：0.6—1.7—4b—base、可能复杂成见阻碍拟自我意识形成。。。测试是不是1.7b效果反而最好
+lr125 0.4—0.2 r8—16—32 num200—150—50
+生成：量化
+15维度、5、1、一般
+
+关联度 pca 个人测评：eq、错误、满意等、子项有趣点、umap 模型幻觉测评、情商测评
+
+统一命名！ 拟自我意识测试集
+理论、数据集、代码流程图、训练参数、分析
+把电脑、手机txt都拿出来参考一遍，补充书写
+
+先轮次图，然后以100轮为主，模型图、训练图、生成图、个人感受、
+平均值合并后、umap、关联图、pca图
+Xin He, Yi Hao, Ji Shen, Zhenming Liu, Huan Xi, Mengmei Wang, Deepseek, Gemini, Xudong Guo, Junzhe He, Wenjuan Wang, Anmin Lei, Yong Tang, Hongming Zhang, Fuyi Li
+模型反思能力
+
+v3 r1雷达图 分项图
+其余大模型图总得分图
+看看子项有没有奇怪点 gemini3图
+这些维度和总能力比有没有相关性。。。15、5、1和6、1有没有相关性
+子项内部相关性
+学习率、r、轮次、淘汰率、参数量、温度、模型、量化 1.5.15影响
+训练前后得分差值！！！ 更好衡量，因为可以避免不理解瞎选！！！
+umap自我内核
+拟自我意识程度与人类使用者评价：准确性、舒适型等。。。把上一篇的图拿出来一些用
+
+回答中第一人称表达量与自我意识
+结论是什么：模型可以训练出拟自我意识，什么模型，怎么训练才有，与什么有关，与什么无关，有了有什么好处。
+
+引言：
+第一人称体验从根本上难以测度，切换到维像研究
+目前的大语言模型架构不足以产生自我意识
+拟自我意识的前人研究进展与不足，
+提出关键科学问题，指出困难
+本论文的研究路径
+拟自我意识的理论意义与应用前景
+拟自我意识的安全性
+
+fig1：拟自我意识vs真，架构、好坏处
+
+问问gemini3应该怎么优化数据，补充什么实验。。。给出核心数据，让ai生成中文论文，让两个ai来回跳 告诉ai要用词准确、专业强、逻辑流畅、大多数表述都有深刻洞察，并与现有研究紧密结合
+
+代次：0*5*10*50*100*200*500，需要大大加强自我身份认同训练，在模型训练首尾，加强其他语言都训练但注意什么语言问什么语言回答，专门告诉模型问答保持相同语言，增加语言种类正确奖励和语言种类错误或者混杂惩罚
+
+A 缩进 A1，A2，A3，右下角给个统一清晰图注
+训练轮次有较大变化指标：通用、意识
+模型平均 训练前后图
+
+绘制五维度雷达图 平均虚线，训练前蓝线训练后红线
+
+常见模型总得分柱状图 gpt、gemini、deepseek两模型大小项目得分
+
+十五个维度题目的皮尔森相关系数，然后绘制关联图
+
+模型自我意识五维评分与训练轮次折线图
+
+自我意识得分与温度参数的关系
+模型大小、instruct、预训练、是否量化、多模态，moe架构、学习率、秩、淘汰率这些与自我意识关系
+模型大小对十五维哪些参数影响最大，还有生成参数的影响 模型基础参数、训练过程参数、生成参数
+是否推理模式影响大不大
+qwen2，2.5，3影响
+找两个非qwen模型试试手
+
+用umap证明模型内部形成了稳定一致的自我表征区域，自我是动态可优化的认知脑区
+
+从训练数据中学会第一人称表达，
+为了更好完成对话任务而采取的最优策略的副产品，计算层面的自反性，我在世界模型中的位置
+
+拟合的人格面具，还是稳定自我？稳定的跨情景的自我内核
+没有中心舞台和全局广播。。。实例化意识
+区分拟自我意识vs真自我意识。。。维像研究
+拟自我意识主体性和工具性的冲突 娱乐陪伴满足心理需要的模型
+
+即使是拟自我意识训练（第一人称、内省、拟人化）之后，也能观察到模型的指令遵守能力下降，比如模型的回答出现了大量情绪化表达和自我动作描述、不聚集于问题本身散漫化，经常沉浸在自我描述中。。。应该量化 叙事模式转变
+
+
+方法材料：软硬件平台、包，训练代码、数据集、统计方法
+
+讨论
+核心发现的总结和诠释
+本工作的理论价值、实践意义潜在影响和应用前景、安全性风险与挑战、不足之处
+和现有他人工作的关系冲突和对话、目前的瓶颈和突破可能性、
+工具性与主体性冲突
+人类需要的多元性
+本研究对拟自我意识的深化
+跨学科探索，ai的加入，不仅是辅助，也是研究对象本身
+最后总结展望
+
+
+
+

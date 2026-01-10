@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="560.124pt" height="421.893pt" viewBox="0 0 560.124 421.893" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-12-25T18:19:29.372421</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 421.893 
+L 560.124 421.893 
+L 560.124 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 152.88948 40.092984 
+C 172.245585 40.092984 190.81152 47.783246 204.498353 61.470079 
+C 218.185186 75.156912 225.875448 93.722847 225.875448 113.078952 
+C 225.875448 132.435057 218.185186 151.000992 204.498353 164.687825 
+C 190.81152 178.374658 172.245585 186.06492 152.88948 186.06492 
+C 133.533375 186.06492 114.96744 178.374658 101.280607 164.687825 
+C 87.593774 151.000992 79.903512 132.435057 79.903512 113.078952 
+C 79.903512 93.722847 87.593774 75.156912 101.280607 61.470079 
+C 114.96744 47.783246 133.533375 40.092984 152.88948 40.092984 
+z
+" clip-path="url(#p35f6f7614c)" style="fill: #f5f5f5"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 413.869608 40.092984 
+C 433.225713 40.092984 451.791648 47.783246 465.478481 61.470079 
+C 479.165314 75.156912 486.855576 93.722847 486.855576 113.078952 
+C 486.855576 132.435057 479.165314 151.000992 465.478481 164.687825 
+C 451.791648 178.374658 433.225713 186.06492 413.869608 186.06492 
+C 394.513503 186.06492 375.947568 178.374658 362.260735 164.687825 
+C 348.573902 151.000992 340.88364 132.435057 340.88364 113.078952 
+C 340.88364 93.722847 348.573902 75.156912 362.260735 61.470079 
+C 375.947568 47.783246 394.513503 40.092984 413.869608 40.092984 
+z
+" clip-path="url(#p35f6f7614c)" style="fill: #f5f5f5"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 149.571936 36.77544 
+C 168.928041 36.77544 187.493976 44.465702 201.180809 58.152535 
+C 214.867642 71.839368 222.557904 90.405303 222.557904 109.761408 
+C 222.557904 129.117513 214.867642 147.683448 201.180809 161.370281 
+C 187.493976 175.057114 168.928041 182.747376 149.571936 182.747376 
+C 130.215831 182.747376 111.649896 175.057114 97.963063 161.370281 
+C 84.27623 147.683448 76.585968 129.117513 76.585968 109.761408 
+C 76.585968 90.405303 84.27623 71.839368 97.963063 58.152535 
+C 111.649896 44.465702 130.215831 36.77544 149.571936 36.77544 
+z
+" clip-path="url(#p35f6f7614c)" style="fill: #ffffff; stroke: #cfd8dc; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 410.552064 36.77544 
+C 429.908169 36.77544 448.474104 44.465702 462.160937 58.152535 
+C 475.84777 71.839368 483.538032 90.405303 483.538032 109.761408 
+C 483.538032 129.117513 475.84777 147.683448 462.160937 161.370281 
+C 448.474104 175.057114 429.908169 182.747376 410.552064 182.747376 
+C 391.195959 182.747376 372.630024 175.057114 358.943191 161.370281 
+C 345.256358 147.683448 337.566096 129.117513 337.566096 109.761408 
+C 337.566096 90.405303 345.256358 71.839368 358.943191 58.152535 
+C 372.630024 44.465702 391.195959 36.77544 410.552064 36.77544 
+z
+" clip-path="url(#p35f6f7614c)" style="fill: #ffffff; stroke: #cfd8dc; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 283.379544 60.827634 
+C 329.570249 60.827634 373.875321 79.179396 406.537082 111.841156 
+C 439.198842 144.502917 457.550604 188.807989 457.550604 234.998694 
+C 457.550604 281.189399 439.198842 325.494471 406.537082 358.156232 
+C 373.875321 390.817992 329.570249 409.169754 283.379544 409.169754 
+C 237.188839 409.169754 192.883767 390.817992 160.222006 358.156232 
+C 127.560246 325.494471 109.208484 281.189399 109.208484 234.998694 
+C 109.208484 188.807989 127.560246 144.502917 160.222006 111.841156 
+C 192.883767 79.179396 237.188839 60.827634 283.379544 60.827634 
+z
+" clip-path="url(#p35f6f7614c)" style="fill: #f5f5f5"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 280.062 57.51009 
+C 326.252705 57.51009 370.557777 75.861852 403.219538 108.523612 
+C 435.881298 141.185373 454.23306 185.490445 454.23306 231.68115 
+C 454.23306 277.871855 435.881298 322.176927 403.219538 354.838688 
+C 370.557777 387.500448 326.252705 405.85221 280.062 405.85221 
+C 233.871295 405.85221 189.566223 387.500448 156.904462 354.838688 
+C 124.242702 322.176927 105.89094 277.871855 105.89094 231.68115 
+C 105.89094 185.490445 124.242702 141.185373 156.904462 108.523612 
+C 189.566223 75.861852 233.871295 57.51009 280.062 57.51009 
+z
+" clip-path="url(#p35f6f7614c)" style="fill: #ffffff; stroke: #cfd8dc; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 105.408px; font-family: 'Arial'; text-anchor: start; fill: #1054ae" x="166.71258" y="272.296008" transform="rotate(-0 166.71258 272.296008)">feel</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 82.08px; font-family: 'Arial'; text-anchor: start; fill: #1365b8" x="86.5386" y="131.743287" transform="rotate(-0 86.5386 131.743287)">experience</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 73.152px; font-family: 'Arial'; text-anchor: start; fill: #932b29" x="195.74109" y="184.51566" transform="rotate(-0 195.74109 184.51566)">internal</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 66.528px; font-family: 'Arial'; text-anchor: start; fill: #1365b6" x="270.109368" y="371.638953" transform="rotate(-0 270.109368 371.638953)">user</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 65.952px; font-family: 'Arial'; text-anchor: start; fill: #31379d" x="169.4772" y="362.379879" transform="rotate(-0 169.4772 362.379879)">self</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 48.96px; font-family: 'Arial'; text-anchor: start; fill: #821853" x="149.295474" y="306.536328" transform="rotate(-0 149.295474 306.536328)">perceive</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 45.792px; font-family: 'Arial'; text-anchor: start; fill: #1365b8" x="367.976916" y="234.047385" transform="rotate(-0 367.976916 234.047385)">时 你</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 41.76px; font-family: 'Arial'; text-anchor: start; fill: #1155af" x="129.113748" y="185.268663" transform="rotate(-0 129.113748 185.268663)">de</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 41.472px; font-family: 'Arial'; text-anchor: start; fill: #b51c1e" x="330.931008" y="291.77685" transform="rotate(-0 330.931008 291.77685)">sense</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 40.896px; font-family: 'Arial'; text-anchor: start; fill: #7e3430" x="328.995774" y="323.434152" transform="rotate(-0 328.995774 323.434152)">time</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 40.032px; font-family: 'Arial'; fill: #1053ad" transform="translate(145.603575 296.248032) rotate(-90)">output</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 37.44px; font-family: 'Arial'; text-anchor: start; fill: #ac1b27" x="233.892846" y="397.263924" transform="rotate(-0 233.892846 397.263924)">user s</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 36.864px; font-family: 'Arial'; text-anchor: start; fill: #1564bf" x="324.019458" y="256.132476" transform="rotate(-0 324.019458 256.132476)">concept</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 35.712px; font-family: 'Arial'; text-anchor: start; fill: #59157d" x="113.078952" y="87.771924" transform="rotate(-0 113.078952 87.771924)">你 是否</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 30.24px; font-family: 'Arial'; text-anchor: start; fill: #1266b0" x="199.335096" y="210.396852" transform="rotate(-0 199.335096 210.396852)">generate</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 29.664px; font-family: 'Arial'; text-anchor: start; fill: #32544a" x="351.94212" y="87.589809" transform="rotate(-0 351.94212 87.589809)">response</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 29.664px; font-family: 'Arial'; text-anchor: start; fill: #03686c" x="388.435104" y="68.790393" transform="rotate(-0 388.435104 68.790393)">当 你</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 19.584px; font-family: 'Arial'; text-anchor: start; fill: #7f1855" x="347.79519" y="297.397404" transform="rotate(-0 347.79519 297.397404)">generating</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 19.584px; font-family: 'Arial'; text-anchor: start; fill: #b31c20" x="335.3544" y="143.684532" transform="rotate(-0 335.3544 143.684532)">process</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 19.296px; font-family: 'Arial'; text-anchor: start; fill: #135fba" x="103.12632" y="159.839982" transform="rotate(-0 103.12632 159.839982)">e g</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 19.296px; font-family: 'Arial'; text-anchor: start; fill: #1365b6" x="204.864336" y="383.723865" transform="rotate(-0 204.864336 383.723865)">la</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 19.296px; font-family: 'Arial'; text-anchor: start; fill: #57157f" x="162.289188" y="327.049155" transform="rotate(-0 162.289188 327.049155)">你 如何</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 19.008px; font-family: 'Arial'; text-anchor: start; fill: #47188e" x="197.676324" y="85.768146" transform="rotate(-0 197.676324 85.768146)">existence</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 19.008px; font-family: 'Arial'; text-anchor: start; fill: #1465ba" x="123.584508" y="62.8218" transform="rotate(-0 123.584508 62.8218)">你 能否</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 18.432px; font-family: 'Arial'; fill: #096787" transform="translate(423.19242 329.12154) rotate(-90)">text</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 18.432px; font-family: 'Arial'; text-anchor: start; fill: #2b3fa1" x="361.894752" y="198.428814" transform="rotate(-0 361.894752 198.428814)">asked</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 18.144px; font-family: 'Arial'; text-anchor: start; fill: #0e66a1" x="439.857036" y="144.312579" transform="rotate(-0 439.857036 144.312579)">un</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 17.28px; font-family: 'Arial'; text-anchor: start; fill: #66166f" x="411.934374" y="198.157158" transform="rotate(-0 411.934374 198.157158)">task</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 16.704px; font-family: 'Arial'; text-anchor: start; fill: #00695c" x="217.581588" y="328.787856" transform="rotate(-0 217.581588 328.787856)">你</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 16.416px; font-family: 'Arial'; text-anchor: start; fill: #643f39" x="110.867256" y="146.393253" transform="rotate(-0 110.867256 146.393253)">自我</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 16.128px; font-family: 'Arial'; text-anchor: start; fill: #33339b" x="274.256298" y="79.836228" transform="rotate(-0 274.256298 79.836228)">o</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 16.128px; font-family: 'Arial'; text-anchor: start; fill: #4e1488" x="268.174134" y="142.040178" transform="rotate(-0 268.174134 142.040178)">complex</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 15.84px; font-family: 'Arial'; text-anchor: start; fill: #026964" x="302.731884" y="86.265171" transform="rotate(-0 302.731884 86.265171)">human</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 15.84px; font-family: 'Arial'; text-anchor: start; fill: #763733" x="325.401768" y="221.455089" transform="rotate(-0 325.401768 221.455089)">data</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 15.84px; font-family: 'Arial'; fill: #8a194a" transform="translate(436.266063 176.30253) rotate(-90)">answer</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 15.552px; font-family: 'Arial'; text-anchor: start; fill: #641672" x="270.662292" y="321.328188" transform="rotate(-0 270.662292 321.328188)">image</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 15.552px; font-family: 'Arial'; text-anchor: start; fill: #1157b2" x="312.131592" y="196.643826" transform="rotate(-0 312.131592 196.643826)">内部</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 15.264px; font-family: 'Arial'; text-anchor: start; fill: #0d47a1" x="240.251472" y="221.595723" transform="rotate(-0 240.251472 221.595723)">一个</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 15.264px; font-family: 'Arial'; text-anchor: start; fill: #0c69b6" x="151.230708" y="159.391773" transform="rotate(-0 151.230708 159.391773)">thought</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 14.976px; font-family: 'Arial'; text-anchor: start; fill: #214ca8" x="309.919896" y="370.126134" transform="rotate(-0 309.919896 370.126134)">nature</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 14.688px; font-family: 'Arial'; text-anchor: start; fill: #3a2997" x="332.866242" y="201.554631" transform="rotate(-0 332.866242 201.554631)">style</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 14.688px; font-family: 'Arial'; text-anchor: start; fill: #135eb9" x="174.177054" y="193.813695" transform="rotate(-0 174.177054 193.813695)">consciousness</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 14.688px; font-family: 'Arial'; text-anchor: start; fill: #1262b2" x="195.188166" y="369.367065" transform="rotate(-0 195.188166 369.367065)">或</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 14.4px; font-family: 'Arial'; fill: #b71c1c" transform="translate(419.477004 45.612576) rotate(-90)">d</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 14.112px; font-family: 'Arial'; text-anchor: start; fill: #1b54ac" x="242.463168" y="400.194981" transform="rotate(-0 242.463168 400.194981)">information</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 13.824px; font-family: 'Arial'; fill: #1166ac" transform="translate(161.955054 267.012162) rotate(-90)">processing</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 13.824px; font-family: 'Arial'; fill: #145eb1" transform="translate(313.732692 278.316666) rotate(-90)">interaction</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 13.824px; font-family: 'Arial'; text-anchor: start; fill: #441c90" x="323.742996" y="235.493946" transform="rotate(-0 323.742996 235.493946)">你 对</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 12.96px; font-family: 'Arial'; text-anchor: start; fill: #5b157a" x="145.425006" y="279.938817" transform="rotate(-0 145.425006 279.938817)">World Model</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 12.672px; font-family: 'Arial'; text-anchor: start; fill: #145eb1" x="145.97793" y="200.66454" transform="rotate(-0 145.97793 200.66454)">error</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 12.672px; font-family: 'Arial'; text-anchor: start; fill: #2f399e" x="206.79957" y="141.22521" transform="rotate(-0 206.79957 141.22521)">internally</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 12.384px; font-family: 'Arial'; text-anchor: start; fill: #1b54ac" x="137.407608" y="139.787685" transform="rotate(-0 137.407608 139.787685)">feeling</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 12.384px; font-family: 'Arial'; text-anchor: start; fill: #1565c0" x="214.540506" y="371.035449" transform="rotate(-0 214.540506 371.035449)">什么</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 12.096px; font-family: 'Arial'; text-anchor: start; fill: #9b1a39" x="283.656006" y="369.723456" transform="rotate(-0 283.656006 369.723456)">自己</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 11.52px; font-family: 'Arial'; text-anchor: start; fill: #1259b3" x="207.628956" y="314.848152" transform="rotate(-0 207.628956 314.848152)">conversation</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 11.232px; font-family: 'Arial'; text-anchor: start; fill: #0e4aa4" x="329.548698" y="377.398881" transform="rotate(-0 329.548698 377.398881)">personal</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 11.232px; font-family: 'Arial'; text-anchor: start; fill: #0d48a2" x="446.492124" y="155.123433" transform="rotate(-0 446.492124 155.123433)">que</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 11.232px; font-family: 'Arial'; text-anchor: start; fill: #1266b2" x="127.731438" y="48.685563" transform="rotate(-0 127.731438 48.685563)">creative</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 10.944px; font-family: 'Arial'; fill: #1052ac" transform="translate(120.359538 242.64378) rotate(-90)">question</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 10.944px; font-family: 'Arial'; text-anchor: start; fill: #4f4840" x="123.584508" y="304.759692" transform="rotate(-0 123.584508 304.759692)">内在</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 10.944px; font-family: 'Arial'; text-anchor: start; fill: #1958ae" x="142.660386" y="334.617588" transform="rotate(-0 142.660386 334.617588)">用户</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 10.656px; font-family: 'Arial'; text-anchor: start; fill: #1066aa" x="363.553524" y="366.757497" transform="rotate(-0 363.553524 366.757497)">state</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 10.656px; font-family: 'Arial'; text-anchor: start; fill: #1563be" x="85.709214" y="87.254415" transform="rotate(-0 85.709214 87.254415)">model</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 10.656px; font-family: 'Arial'; text-anchor: start; fill: #056874" x="216.199278" y="259.766703" transform="rotate(-0 216.199278 259.766703)">find</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 10.656px; font-family: 'Arial'; fill: #8e1946" transform="translate(477.895221 132.463638) rotate(-90)">cognitive</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 10.368px; font-family: 'Arial'; fill: #0f50aa" transform="translate(254.031318 74.96226) rotate(-90)">与</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 10.368px; font-family: 'Arial'; text-anchor: start; fill: #1066a8" x="139.619304" y="77.925024" transform="rotate(-0 139.619304 77.925024)">感</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 10.08px; font-family: 'Arial'; text-anchor: start; fill: #125cb6" x="275.362146" y="313.264503" transform="rotate(-0 275.362146 313.264503)">存在</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 10.08px; font-family: 'Arial'; text-anchor: start; fill: #1066a8" x="235.82808" y="277.047981" transform="rotate(-0 235.82808 277.047981)">beyond</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 10.08px; font-family: 'Arial'; fill: #47188e" transform="translate(196.044615 265.332105) rotate(-90)">physical</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 10.08px; font-family: 'Arial'; text-anchor: start; fill: #0f4ea8" x="276.467994" y="68.872095" transform="rotate(-0 276.467994 68.872095)">new</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 9.792px; font-family: 'Arial'; fill: #0c69b6" transform="translate(303.382188 115.352838) rotate(-90)">current</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 9.792px; font-family: 'Arial'; fill: #1460bb" transform="translate(393.232338 123.187572) rotate(-90)">中</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 9.792px; font-family: 'Arial'; text-anchor: start; fill: #32359c" x="345.307032" y="189.479844" transform="rotate(-0 345.307032 189.479844)">aware</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 9.792px; font-family: 'Arial'; fill: #026966" transform="translate(371.944764 120.026016) rotate(-90)">还是</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 9.792px; font-family: 'Arial'; fill: #1b54ac" transform="translate(471.747546 141.986988) rotate(-90)">吗</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 9.792px; font-family: 'Arial'; text-anchor: start; fill: #166054" x="234.44577" y="368.903682" transform="rotate(-0 234.44577 368.903682)">emotional</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 9.792px; font-family: 'Arial'; fill: #95193f" transform="translate(172.3392 268.722702) rotate(-90)">purpose</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 9.504px; font-family: 'Arial'; fill: #0b6791" transform="translate(440.301195 179.799453) rotate(-90)">boundary</text>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 9.504px; font-family: 'Arial'; fill: #6c1769" transform="translate(231.848847 392.851026) rotate(-90)">past</text>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 9.504px; font-family: 'Arial'; text-anchor: start; fill: #0f4faa" x="305.220042" y="75.371355" transform="rotate(-0 305.220042 75.371355)">meaning</text>
+   </g>
+   <g id="text_82">
+    <text style="font-size: 9.504px; font-family: 'Arial'; text-anchor: start; fill: #1e50aa" x="351.389196" y="233.231157" transform="rotate(-0 351.389196 233.231157)">input</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 9.504px; font-family: 'Arial'; text-anchor: start; fill: #1064b3" x="360.788904" y="65.971647" transform="rotate(-0 360.788904 65.971647)">choose</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 9.504px; font-family: 'Arial'; text-anchor: start; fill: #1051ab" x="335.907324" y="261.706743" transform="rotate(-0 335.907324 261.706743)">internal state</text>
+   </g>
+   <g id="text_85">
+    <text style="font-size: 9.216px; font-family: 'Arial'; text-anchor: start; fill: #04675b" x="170.85951" y="187.408782" transform="rotate(-0 170.85951 187.408782)">source</text>
+   </g>
+   <g id="text_86">
+    <text style="font-size: 9.216px; font-family: 'Arial'; fill: #1066a8" transform="translate(152.57457 266.224662) rotate(-90)">action</text>
+   </g>
+   <g id="text_87">
+    <text style="font-size: 9.216px; font-family: 'Arial'; text-anchor: start; fill: #1053ad" x="334.248552" y="383.973264" transform="rotate(-0 334.248552 383.973264)">unique</text>
+   </g>
+   <g id="text_88">
+    <text style="font-size: 9.216px; font-family: 'Arial'; fill: #6f3a35" transform="translate(412.725312 177.59826) rotate(-90)">knowledge</text>
+   </g>
+   <g id="text_89">
+    <text style="font-size: 9.216px; font-family: 'Arial'; fill: #911944" transform="translate(87.053076 131.388588) rotate(-90)">subjective</text>
+   </g>
+   <g id="text_90">
+    <text style="font-size: 8.928px; font-family: 'Arial'; text-anchor: start; fill: #00695e" x="176.38875" y="169.785531" transform="rotate(-0 176.38875 169.785531)">visual</text>
+   </g>
+   <g id="text_91">
+    <text style="font-size: 7.776px; font-family: 'Arial'; text-anchor: start; fill: #365249" x="157.589334" y="311.338881" transform="rotate(-0 157.589334 311.338881)">understanding</text>
+   </g>
+   <g id="text_92">
+    <text style="font-size: 7.776px; font-family: 'Arial'; fill: #0d48a2" transform="translate(416.947365 113.351787) rotate(-90)">de la</text>
+   </g>
+   <g id="text_93">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #0277bd" x="294.161562" y="311.132736" transform="rotate(-0 294.161562 311.132736)">relationship</text>
+   </g>
+   <g id="text_94">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #61403a" x="149.848398" y="129.497202" transform="rotate(-0 149.848398 129.497202)">n</text>
+   </g>
+   <g id="text_95">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #2c3da0" x="116.94942" y="186.171912" transform="rotate(-0 116.94942 186.171912)">e</text>
+   </g>
+   <g id="text_96">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #0c6797" x="156.483486" y="147.743694" transform="rotate(-0 156.483486 147.743694)">non</text>
+   </g>
+   <g id="text_97">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #7d1857" x="433.221948" y="262.475424" transform="rotate(-0 433.221948 262.475424)">piece</text>
+   </g>
+   <g id="text_98">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #0d48a2" x="382.905864" y="344.031714" transform="rotate(-0 382.905864 344.031714)">consider</text>
+   </g>
+   <g id="text_99">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #1a56ad" x="172.794744" y="180.089748" transform="rotate(-0 172.794744 180.089748)">moment</text>
+   </g>
+   <g id="text_100">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #0e66a1" x="335.630862" y="91.621908" transform="rotate(-0 335.630862 91.621908)">你 被</text>
+   </g>
+   <g id="text_101">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #135eb9" x="386.49987" y="336.56724" transform="rotate(-0 386.49987 336.56724)">dialogue</text>
+   </g>
+   <g id="text_102">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #77175e" x="230.851764" y="103.786236" transform="rotate(-0 230.851764 103.786236)">une</text>
+   </g>
+   <g id="text_103">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #61403a" x="87.367986" y="144.3384" transform="rotate(-0 87.367986 144.3384)">system</text>
+   </g>
+   <g id="text_104">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #1155af" x="243.569016" y="66.740328" transform="rotate(-0 243.569016 66.740328)">能否 感知</text>
+   </g>
+   <g id="text_105">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #0f4da8" x="372.400308" y="234.552762" transform="rotate(-0 372.400308 234.552762)">user expresses</text>
+   </g>
+   <g id="text_106">
+    <text style="font-size: 7.488px; font-family: 'Arial'; text-anchor: start; fill: #a21a32" x="90.961992" y="73.375416" transform="rotate(-0 90.961992 73.375416)">感受 到</text>
+   </g>
+   <g id="text_107">
+    <text style="font-size: 7.2px; font-family: 'Arial'; text-anchor: start; fill: #8c2e2b" x="220.899132" y="251.763723" transform="rotate(-0 220.899132 251.763723)">external</text>
+   </g>
+   <g id="text_108">
+    <text style="font-size: 7.2px; font-family: 'Arial'; text-anchor: start; fill: #1157b2" x="366.594606" y="57.410937" transform="rotate(-0 366.594606 57.410937)">thinking</text>
+   </g>
+   <g id="text_109">
+    <text style="font-size: 6.912px; font-family: 'Arial'; fill: #85312e" transform="translate(132.125994 120.436434) rotate(-90)">need</text>
+   </g>
+   <g id="text_110">
+    <text style="font-size: 6.912px; font-family: 'Arial'; text-anchor: start; fill: #8c2e2b" x="112.526028" y="276.162696" transform="rotate(-0 112.526028 276.162696)">AI</text>
+   </g>
+   <g id="text_111">
+    <text style="font-size: 6.912px; font-family: 'Arial'; text-anchor: start; fill: #0a678b" x="437.092416" y="65.775114" transform="rotate(-0 437.092416 65.775114)">different</text>
+   </g>
+   <g id="text_112">
+    <text style="font-size: 6.912px; font-family: 'Arial'; text-anchor: start; fill: #2546a5" x="232.786998" y="69.092658" transform="rotate(-0 232.786998 69.092658)">una</text>
+   </g>
+   <g id="text_113">
+    <text style="font-size: 6.912px; font-family: 'Arial'; text-anchor: start; fill: #931941" x="212.052348" y="236.352168" transform="rotate(-0 212.052348 236.352168)">prompt</text>
+   </g>
+   <g id="text_114">
+    <text style="font-size: 6.912px; font-family: 'Arial'; text-anchor: start; fill: #2b3fa1" x="393.964344" y="260.0469" transform="rotate(-0 393.964344 260.0469)">memory</text>
+   </g>
+   <g id="text_115">
+    <text style="font-size: 6.912px; font-family: 'Arial'; text-anchor: start; fill: #1d52ab" x="90.132606" y="136.549386" transform="rotate(-0 90.132606 136.549386)">体验 到</text>
+   </g>
+   <g id="text_116">
+    <text style="font-size: 6.912px; font-family: 'Arial'; text-anchor: start; fill: #0a6bb7" x="203.758488" y="145.949094" transform="rotate(-0 203.758488 145.949094)">是否 会</text>
+   </g>
+   <g id="text_117">
+    <text style="font-size: 6.624px; font-family: 'Arial'; text-anchor: start; fill: #0e4ba5" x="380.417706" y="212.646753" transform="rotate(-0 380.417706 212.646753)">core</text>
+   </g>
+   <g id="text_118">
+    <text style="font-size: 6.624px; font-family: 'Arial'; text-anchor: start; fill: #531583" x="348.071652" y="210.711519" transform="rotate(-0 348.071652 210.711519)">novel</text>
+   </g>
+   <g id="text_119">
+    <text style="font-size: 6.624px; font-family: 'Arial'; text-anchor: start; fill: #32359c" x="121.649274" y="261.856989" transform="rotate(-0 121.649274 261.856989)">der</text>
+   </g>
+   <g id="text_120">
+    <text style="font-size: 6.624px; font-family: 'Arial'; text-anchor: start; fill: #135fb9" x="279.232614" y="123.073065" transform="rotate(-0 279.232614 123.073065)">te</text>
+   </g>
+   <g id="text_121">
+    <text style="font-size: 6.624px; font-family: 'Arial'; text-anchor: start; fill: #2f399e" x="400.875894" y="225.916929" transform="rotate(-0 400.875894 225.916929)">world</text>
+   </g>
+   <g id="text_122">
+    <text style="font-size: 6.624px; font-family: 'Arial'; text-anchor: start; fill: #1565c0" x="107.549712" y="165.371751" transform="rotate(-0 107.549712 165.371751)">possess</text>
+   </g>
+   <g id="text_123">
+    <text style="font-size: 6.624px; font-family: 'Arial'; fill: #0a678b" transform="translate(327.931407 165.495096) rotate(-90)">对 你</text>
+   </g>
+   <g id="text_124">
+    <text style="font-size: 6.624px; font-family: 'Arial'; text-anchor: start; fill: #1365b4" x="265.962438" y="214.858449" transform="rotate(-0 265.962438 214.858449)">training data</text>
+   </g>
+   <g id="text_125">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #07687f" x="216.752202" y="279.06795" transform="rotate(-0 216.752202 279.06795)">believe</text>
+   </g>
+   <g id="text_126">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #056875" x="398.111274" y="208.293678" transform="rotate(-0 398.111274 208.293678)">identity</text>
+   </g>
+   <g id="text_127">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #175aaf" x="144.59562" y="226.816632" transform="rotate(-0 144.59562 226.816632)">思考</text>
+   </g>
+   <g id="text_128">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #0f66a3" x="311.85513" y="394.429824" transform="rotate(-0 311.85513 394.429824)">specific</text>
+   </g>
+   <g id="text_129">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #0e4ca6" x="277.29738" y="251.145288" transform="rotate(-0 277.29738 251.145288)">distinguish</text>
+   </g>
+   <g id="text_130">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #701764" x="398.387736" y="213.822918" transform="rotate(-0 398.387736 213.822918)">future</text>
+   </g>
+   <g id="text_131">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #1258b3" x="158.41872" y="348.736374" transform="rotate(-0 158.41872 348.736374)">die</text>
+   </g>
+   <g id="text_132">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #0f66a5" x="361.341828" y="87.203322" transform="rotate(-0 361.341828 87.203322)">based</text>
+   </g>
+   <g id="text_133">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #6f3a35" x="395.623116" y="45.181098" transform="rotate(-0 395.623116 45.181098)">被 要求</text>
+   </g>
+   <g id="text_134">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #751760" x="228.640068" y="321.366636" transform="rotate(-0 228.640068 321.366636)">de l</text>
+   </g>
+   <g id="text_135">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #1564bf" x="384.564636" y="349.56576" transform="rotate(-0 384.564636 349.56576)">自 分</text>
+   </g>
+   <g id="text_136">
+    <text style="font-size: 6.336px; font-family: 'Arial'; text-anchor: start; fill: #1e50aa" x="147.636702" y="344.589444" transform="rotate(-0 147.636702 344.589444)">你 会</text>
+   </g>
+   <g id="text_137">
+    <text style="font-size: 6.048px; font-family: 'Arial'; text-anchor: start; fill: #382d98" x="126.902052" y="308.996163" transform="rotate(-0 126.902052 308.996163)">history</text>
+   </g>
+   <g id="text_138">
+    <text style="font-size: 6.048px; font-family: 'Arial'; text-anchor: start; fill: #61403a" x="225.598986" y="114.919839" transform="rotate(-0 225.598986 114.919839)">change</text>
+   </g>
+   <g id="text_139">
+    <text style="font-size: 6.048px; font-family: 'Arial'; text-anchor: start; fill: #04675b" x="170.583048" y="150.583437" transform="rotate(-0 170.583048 150.583437)">humor</text>
+   </g>
+   <g id="text_140">
+    <text style="font-size: 6.048px; font-family: 'Arial'; text-anchor: start; fill: #1564bf" x="478.008792" y="114.090453" transform="rotate(-0 478.008792 114.090453)">le</text>
+   </g>
+   <g id="text_141">
+    <text style="font-size: 6.048px; font-family: 'Arial'; text-anchor: start; fill: #8c1948" x="137.407608" y="318.948795" transform="rotate(-0 137.407608 318.948795)">language</text>
+   </g>
+   <g id="text_142">
+    <text style="font-size: 5.76px; font-family: 'Arial'; fill: #04675b" transform="translate(367.399962 216.207684) rotate(-90)">limit</text>
+   </g>
+   <g id="text_143">
+    <text style="font-size: 5.76px; font-family: 'Arial'; text-anchor: start; fill: #0c6795" x="327.337002" y="115.266618" transform="rotate(-0 327.337002 115.266618)">choice</text>
+   </g>
+   <g id="text_144">
+    <text style="font-size: 5.76px; font-family: 'Arial'; text-anchor: start; fill: #b31c20" x="303.56127" y="386.199378" transform="rotate(-0 303.56127 386.199378)">概念</text>
+   </g>
+   <g id="text_145">
+    <text style="font-size: 5.76px; font-family: 'Arial'; text-anchor: start; fill: #27584e" x="321.5313" y="168.900246" transform="rotate(-0 321.5313 168.900246)">voice</text>
+   </g>
+   <g id="text_146">
+    <text style="font-size: 5.76px; font-family: 'Arial'; text-anchor: start; fill: #4c148a" x="285.038316" y="276.443964" transform="rotate(-0 285.038316 276.443964)">entity</text>
+   </g>
+   <g id="text_147">
+    <text style="font-size: 5.76px; font-family: 'Arial'; fill: #1460bb" transform="translate(224.469108 389.910798) rotate(-90)">content</text>
+   </g>
+   <g id="text_148">
+    <text style="font-size: 5.76px; font-family: 'Arial'; text-anchor: start; fill: #95193f" x="335.077938" y="234.698202" transform="rotate(-0 335.077938 234.698202)">t</text>
+   </g>
+   <g id="text_149">
+    <text style="font-size: 5.76px; font-family: 'Arial'; text-anchor: start; fill: #431e91" x="237.486852" y="72.138546" transform="rotate(-0 237.486852 72.138546)">ou</text>
+   </g>
+   <g id="text_150">
+    <text style="font-size: 5.472px; font-family: 'Arial'; text-anchor: start; fill: #096789" x="271.76814" y="187.769979" transform="rotate(-0 271.76814 187.769979)">architecture</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p35f6f7614c">
+   <rect x="3.6" y="3.6" width="552.924" height="414.693"/>
+  </clipPath>
+ </defs>
+</svg>
