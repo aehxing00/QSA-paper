@@ -1,0 +1,65 @@
+# =========== Python 基础垃圾文件 ===========
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# =========== 虚拟环境 (千万别传) ===========
+# 各种常见的虚拟环境文件夹名
+venv/
+env/
+.env/
+.venv/
+env.bak/
+venv.bak/
+
+# =========== IDE 编辑器配置 (个人配置不要传) ===========
+# VS Code / Trae
+.vscode/
+*.code-workspace
+
+# JetBrains (Pycharm)
+.idea/
+
+# =========== Jupyter Notebook ===========
+# Notebook 的自动存档
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# =========== 机器学习/大数据特供 ===========
+# 过滤掉模型文件 (通常很大，建议用 Git LFS 或单独存储)
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.onnx
+
+# 过滤掉数据集 (防止把几个G的数据传上去)
+# 如果你的数据很小(如泰坦尼克号)，可以把下面这两行删掉
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# =========== 操作系统生成的文件 ===========
+.DS_Store
+Thumbs.db
