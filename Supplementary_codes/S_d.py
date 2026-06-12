@@ -43,7 +43,7 @@ def plot_bar_chart():
     ax.set_yticklabels(['0', '25', '50', '75',  '100'],
                        fontsize=FONT_SIZE_TICK, color='#1a1a1a')
 
-    ax.set_ylabel('5D3S-QSA Score',
+    ax.set_ylabel('MBPP Score',
                   fontsize=FONT_SIZE_TITLE,
                   fontweight='bold',
                   color='#1a1a1a',
